@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF2D55&center=true&vCenter=true&width=900&height=120&lines=Barath+S;Full+Stack+Developer;AI+%26+ML+Enthusiast;Turning+Data+into+Decisions;Building+Tomorrow's+Solutions" alt="Typing Animation" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D55,100:4A90E2&height=120&section=header&text=⚡%20Code.%20Innovate.%20Impact.%20⚡&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
 
-<!--
-**freqcoder19/freqcoder19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+  <h1>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    I'm Barath S
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </h1>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
-Here are some ideas to get you started:
+## 💫 Tool-Kit
+### 🎯 Core Languages
+<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black"> </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Frontend Artistry
+<div align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black"> </div>
+
+### ⚙️ Backend Power
+<div align="center"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=swagger&logoColor=white&labelColor=black"> </div>
+
+### 🤖 AI & Machine Learning
+<div align="center"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white&labelColor=black"> </div>
+
+### ☁️ Cloud & DevOps
+<div align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=black"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black"> </div>
+
+### 🗄️ Databases
+<div align="center"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black"> <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=black"> </div><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
+🏗️ Project Showcase
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">📝 Personal Gemini Journal</h3> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00FFAA&center=true&vCenter=true&width=300&height=40&lines=AI+Journaling+Platform;Privacy+First+Design;Multi-turn+Conversations;Mood+Tracking" /> </div> <p align="center"> <strong>React • TypeScript • Node.js • Firebase • Vertex AI • Gemini 2.5 Flash</strong> </p> <p align="center"> 🚀 Built a privacy-first AI journaling platform with secure authentication, ID-token verification, and isolated data storage. </p> </td> <td width="50%"> <h3 align="center">💳 Credit Risk Analysis</h3> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=300&height=40&lines=Financial+Risk+Prediction;90%25+Precision;ML+Models;Data+Driven" /> </div> <p align="center"> <strong>Python • Scikit-learn • Pandas • Matplotlib • Seaborn</strong> </p> <p align="center"> 📊 Developed Logistic Regression and Random Forest models achieving 90% precision for credit-risk prediction. </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">🔬 Stem Cell Contamination Detection</h3> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=00B4D8&center=true&vCenter=true&width=300&height=40&lines=95%25+Accuracy;Deep+Learning;Lab+Automation;EfficientNet-B0" /> </div> <p align="center"> <strong>Python • TensorFlow • EfficientNet-B0 • OpenCV • NumPy</strong> </p> <p align="center"> 🧬 Built a deep learning pipeline achieving 95% validation accuracy for automated contamination detection in stem cell images. </p> </td> <td width="50%"> <h3 align="center">🛒 Sustainable E-commerce Platform</h3> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=FFA500&center=true&vCenter=true&width=300&height=40&lines=Full+Stack;Spring+Boot;Carbon+Footprint;Eco-Friendly" /> </div> <p align="center"> <strong>Java • Spring Boot • SQL • React.js • REST APIs</strong> </p> <p align="center"> 🌱 Developed backend services with carbon-footprint calculations and eco-friendly product recommendations. </p> </td> </tr> </table> </div><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=freqcoder19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&count_private=true" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=freqcoder19&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakNum=ffffff" width="49%"/> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freqcoder19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=ffffff" width="49%"/> <img src="https://github-profile-trophy.vercel.app/?username=freqcoder19&theme=radical&no-frame=true&row=2&column=3&bg_color=0D1117" width="49%"/> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=freqcoder19&custom_title=Barath's%20Contribution%20Graph&bg_color=0D1117&color=00FFAA&line=00FFAA&point=ffffff&area_color=00FFAA&title_color=ffffff&area=true&hide_border=true" width="95%"/> </div><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
